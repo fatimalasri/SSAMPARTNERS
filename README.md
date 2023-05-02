@@ -9,9 +9,7 @@
  #
 
 ## Education
-<div>
-  
-     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:100px'>
-</div>
+<h1> EST Agadir génie informatique</h1>
+<h1> Fs Agadir licence professionnel ingénierie informatique</h1>
 
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)

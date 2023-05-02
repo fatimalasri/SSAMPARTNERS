@@ -9,7 +9,7 @@
  #
 
 ## Education
-<h1> EST Agadir génie informatique</h1>
-<h1> Fs Agadir licence professionnel ingénierie informatique</h1>
+<h2> EST Agadir génie informatique</h2>
+<h2> Fs Agadir licence professionnel ingénierie informatique</h2>
 
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
